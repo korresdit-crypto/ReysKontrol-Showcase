@@ -8,7 +8,9 @@
 ![Web](https://img.shields.io/badge/Web-Next.js-black?logo=next.js)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Infra-Docker-blue?logo=docker)
-
+<p align="center">
+  <img src="assets/reyskontrol-architecture.png" alt="РейсКонтроль Architecture" width="100%">
+</p>
 ---
 
 ## 🎯 Что такое РейсКонтроль
