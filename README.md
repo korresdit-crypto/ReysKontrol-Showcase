@@ -11,7 +11,7 @@
 <p align="center">
   <img src="assets/reyskontrol-architecture.png" alt="РейсКонтроль Architecture" width="100%">
 </p>
----
+
 
 ## 🎯 Что такое РейсКонтроль
 
